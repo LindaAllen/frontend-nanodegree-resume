@@ -125,7 +125,7 @@ var education = {
         "city": "Farmington, CT",
         "degree": "AS",
         "majors": ["Business Office Technology"],
-        "dates": 2011,
+        "dates": 2014,
         "location": "Farmington, CT"
             // "url": "http://example.com"
 
